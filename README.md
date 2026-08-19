@@ -1,10 +1,12 @@
+Archive code from the original repository (https://github.com/MatthiasWel/sbbe) to preserve a snapshot for the corresponding publication.
+
 ## Installation
 
 To install sbbe from GitHub repository, do:
 
 ```console
-git clone git@github.com:MatthiasWel/sbbe.git
-cd sbbe
+git clone git@github.com:molinfo-vienna/sbbe_paper.git
+cd sbbe_paper
 conda env create -f environment.yaml
 conda activate sbbe
 pip install .
